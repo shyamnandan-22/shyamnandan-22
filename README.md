@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shyam Nandan 👋
 
-<!--
-**shyamnandan-22/shyamnandan-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about data analytics, visualization, and business insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+Seeking opportunities to grow as a Data Analyst Intern.
+
+## Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/shyam-nandan-analytics
